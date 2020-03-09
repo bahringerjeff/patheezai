@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caeleoyai.yc2017-hope.com/sitemap.xml
